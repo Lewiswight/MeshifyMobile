@@ -1,0 +1,8 @@
+{
+	"name": "Meshify_Mobile",
+	"version": "0.1",
+	"description": "An empty app created by default",
+	"permissions": ["http://devbuildinglynx.apphb.com/api/*", "http://devbuildinglynx.apphb.com/api/authentication", "http://devbuildinglynx.apphb.com/api/username"],
+	"background": {"page": "forge.html"},
+	"manifest_version": 2
+}
